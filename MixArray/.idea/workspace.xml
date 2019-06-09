@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00a3db43-d818-41a4-a2ff-21b8c4ab1d89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8cc0f91b-0de3-49fc-8a13-d0ac56abc81a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DiffElements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiffElements/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,15 +18,15 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DiffElements.java">
+        <entry file="file://$PROJECT_DIR$/src/MixArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="80" column="31" selection-end-line="91" />
+            <state relative-caret-position="-795">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#988#989#0" expanded="true" />
-                <element signature="e#1031#1032#0" expanded="true" />
-                <element signature="e#1534#1543#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
+                <element signature="e#716#717#0" expanded="true" />
+                <element signature="e#1638#1647#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,7 +47,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DiffElements.java" />
+        <option value="$PROJECT_DIR$/src/MixArray.java" />
       </list>
     </option>
   </component>
@@ -59,7 +59,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
+    <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -68,23 +68,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DiffElements" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DiffElements" type="462c0819:PsiDirectoryNode" />
+              <item name="MixArray" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MixArray" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -107,17 +106,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="00a3db43-d818-41a4-a2ff-21b8c4ab1d89" name="Default Changelist" comment="" />
-      <created>1559992399818</created>
+      <changelist id="8cc0f91b-0de3-49fc-8a13-d0ac56abc81a" name="Default Changelist" comment="" />
+      <created>1560019326623</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559992399818</updated>
-      <workItem from="1559996450007" duration="3337000" />
+      <updated>1560019326623</updated>
+      <workItem from="1560019332233" duration="3579000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3337000" />
+    <option name="totallyTimeSpent" value="3579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -156,15 +155,15 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DiffElements.java">
+    <entry file="file://$PROJECT_DIR$/src/MixArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="80" column="31" selection-end-line="91" />
+        <state relative-caret-position="-795">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#988#989#0" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1534#1543#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#1638#1647#0" expanded="true" />
           </folding>
         </state>
       </provider>
